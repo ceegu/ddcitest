@@ -1,7 +1,15 @@
 {
+  "name": "ddcitest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^23.6.0",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0"
-  }
+  },
+  "repository": "https://github.com/ceegu/ddcitest.git",
+  "license": "MIT"
 }
